@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# Local/generated presentation artifacts are outside the valuation package.
+presentation_workspace/
